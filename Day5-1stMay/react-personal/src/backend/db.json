@@ -1,0 +1,71 @@
+{
+  "products": [
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "7bfFoRAO1vU",
+      "city": "Ramgudh"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "rZ9PPY20m64"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "uvhg6sDMdE8"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "K06m7ITydUM"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "Clqt7FAxB9g"
+    },
+    {
+      "name": "JAY",
+      "friend": "Veeru",
+      "id": "mLHaa02VG2E"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "cZVHlBRZezM"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "wMsPFUPt1Jk"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "MGEvNqSgUhk"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "D0QYvEIe6wI"
+    },
+    {
+      "name": "s",
+      "id": "CvsFaHGjuSI"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "2-R5_Mp5IwM"
+    },
+    {
+      "name": "s",
+      "description": "s",
+      "id": "ivCcb0jhHKs"
+    }
+  ],
+  "users": [],
+  "$schema": "./node_modules/json-server/schema.json"
+}
